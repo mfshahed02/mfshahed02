@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfshahed02
 - 👀 I’m interested in SharePoint
-- 🌱 I’m currently learning Flow
+- 🌱 I’m currently learning Flow & Azure
 - 📫 How to reach me ... 
 
 <!---
